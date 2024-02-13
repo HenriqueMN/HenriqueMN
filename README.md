@@ -34,16 +34,31 @@
     <div>
       <h4>Principais Frameworks/Main Frameworks:</h4>
       <img 
-        alt="Ícone do framework Spring / Spring framemwork icon" 
+        alt="Ícone do framework Spring / Spring framework icon" 
         height="55" 
         width="55" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
       />
       <img 
-        alt="Ícone do framework React / React framemwork icon" 
+        alt="Ícone do framework React / React framework icon" 
         height="55" 
         width="55" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+      />
+      <img 
+        alt="Ícone do framework Angular / Angular framework icon" 
+        height="55" 
+        width="55" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+      />
+    </div>
+    <div>
+      <h4>Principais Bancos de Dados/Main Databases:</h4>
+      <img 
+        alt="Ícone do banco de dados MySQL / MySQL database icon" 
+        height="55" 
+        width="55" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
       />
     </div>
   </article>
