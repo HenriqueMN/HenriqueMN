@@ -19,7 +19,7 @@
     <img 
       alt="Ícone da linguagem JavaScript / JavaScript language icon" 
       height="55" 
-      width="5" 
+      width="55" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
