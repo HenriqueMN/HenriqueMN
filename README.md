@@ -31,12 +31,20 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
       />
     </div>
-    <img 
-      alt="Ícone do framework React / React framemwork icon" 
-      height="55" 
-      width="55" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-
+    <div>
+      <h4>Principais Frameworks/Main Frameworks:</h4>
+      <img 
+        alt="Ícone do framework Spring / Spring framemwork icon" 
+        height="55" 
+        width="55" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+      />
+      <img 
+        alt="Ícone do framework React / React framemwork icon" 
+        height="55" 
+        width="55" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+      />
+    </div>
   </article>
 </div>
