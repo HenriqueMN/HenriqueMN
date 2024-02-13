@@ -11,6 +11,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=swift"/>
   </article>
   <article>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </article>
 </section>
