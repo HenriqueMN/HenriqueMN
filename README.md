@@ -11,9 +11,9 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
   </article>
   <article>
-    <div display="flex">
+    <div style="display: flex">
       <h2>Principais Tecnologias/Main Techs:</h2>
-      <div>
+      <div style="display">
         <h4>Linguagens de Programação/Programming Languages:</h4>
         <img alt="Ícone da linguagem Java / Java language icon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
         <img alt="Ícone da linguagem R / R language icon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
