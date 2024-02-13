@@ -5,7 +5,7 @@
   
 </section>
 
-<section align="center" style="display"> <!-- Most used languages -->
+<section align="center" style="display:inline_block"> <!-- Most used languages -->
   <article>
     <h2>Stats:</h2>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=swift"/>
