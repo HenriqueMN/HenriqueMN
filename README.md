@@ -11,7 +11,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
   </article>
   <article>
-    <div width="100%">
+    <div>
       <h2>Principais Tecnologias/Main Techs:</h2>
       <div width="100%">
         <div width="50%">
