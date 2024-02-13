@@ -12,6 +12,7 @@
   </article>
   <article style="display: inline_block" >
     <h2>Principais tecnologias/Main technologies:</h2>
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Ícone da linguagem Java / Java language icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Ícone da linguagem R / R language icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   </article>
 </div>
