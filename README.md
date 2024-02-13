@@ -15,7 +15,7 @@
     <article>
         <h2>Principais Tecnologias/Main Techs:</h2>
         <div>
-            <h4>Linguagens de Programação/Programming Languages:</h4>
+            <h4>Linguagens/Languages:</h4>
             <img 
                 alt="Ícone da linguagem Java / Java language icon" 
                 height="55" width="55" 
