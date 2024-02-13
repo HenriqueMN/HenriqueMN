@@ -8,7 +8,7 @@
 <div align="center"> <!-- Most used languages -->
   <article>
     <h2>Stats:</h2>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=swift"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
   </article>
   <article style="display: inline_block" >
     <h2>Principais Tecnologias/Main Techs:</h2>
