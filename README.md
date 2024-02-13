@@ -13,8 +13,8 @@
   <article>
     <div>
       <h2>Principais Tecnologias/Main Techs:</h2>
-      <div width="100%">
-        <div width="50%">
+      <div style="display:grid">
+        <div>
             <h4>Linguagens de Programação/Programming Languages:</h4>
             <img alt="Ícone da linguagem Java / Java language icon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
             <img alt="Ícone da linguagem R / R language icon" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
