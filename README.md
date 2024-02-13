@@ -48,8 +48,8 @@
           />
           <img 
             alt="Ícone do framework Angular / Angular framework icon" 
-            height="55" 
-            width="55" 
+            height="60" 
+            width="60" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
           />
     </div>
