@@ -12,6 +12,6 @@
   </article>
   <article>
     <h2>Principais tecnologias/Main technologies:</h2>
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </article>
 </section>
