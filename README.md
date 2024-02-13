@@ -22,5 +22,11 @@
       width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
+        <img 
+      alt="Ícone da linguagem JavaScript / JavaScript language icon" 
+      height="50" 
+      width="50" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
   </article>
 </div>
