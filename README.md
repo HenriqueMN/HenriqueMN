@@ -93,7 +93,7 @@
       <h2>Stats</h2>
       <img 
           height="250" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=holi"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=default"
       />
   </article>
 </div>
