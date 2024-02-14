@@ -3,9 +3,9 @@
 <div> <!-- Presentation -->
     <h1 align="center">👋 Hello, I'm Henrique</h1>
     <h2 align="center">About</h2>
-    <p>📖 I'm a developer and a linguist interested in finding creative solutions with technology.</p>
-    <p>🌱 I'm currently focused on learning JavaScript.</p>
-    <p>💘 My main interests are full stack web development, AI and data analysis.</p>
+    <p>📖 I'm a developer and linguist passionate about leveraging technology to discover innovative solutions.</p>
+    <p>🌱 I'm currently focused on enhancing my JavaScript skills.</p>
+    <p>💘 My main interests include full-stack web development, AI, and data analysis.</p>
 </div>
 
 <div align="center"> <!-- Most used languages -->
