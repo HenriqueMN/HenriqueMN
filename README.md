@@ -1,8 +1,11 @@
-# Perfil em desenvolvimento / Profile in development
+# Profile in development
 
 <div> <!-- Presentation -->
-    <h1 align="center">👋 Olá, me chamo Henrique / Hello, I'm Henrique</h1>
-    <h2 align="center">Sobre</h2>
+    <h1 align="center">👋 Hello, I'm Henrique</h1>
+    <h2 align="center">About</h2>
+    <p>📖 I'm a developer and a linguist interested in solving problems with technology.</p>
+    <p>🌱 I'm currently focused on learning JavaScript.</p>
+    <p>💘 My main interests are full stack web development, AI and data analysis.</p>
 </div>
 
 <div align="center"> <!-- Most used languages -->
@@ -13,9 +16,9 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
     </article>
     <article>
-        <h2>Principais Tecnologias/Main Techs</h2>
+        <h2>Main Techs</h2>
         <div>
-            <h4>Linguagens/Languages</h4>
+            <h4>Languages</h4>
             <img 
                 alt="Ícone da linguagem Java / Java language icon" 
                 height="55" width="55" 
@@ -66,7 +69,7 @@
         />
     </div>
     <div>
-        <h4>Bancos de Dados/Databases</h4>
+        <h4>Databases</h4>
         <img 
             alt="Ícone do banco de dados MySQL / MySQL database icon" 
             height="55" width="55" 
