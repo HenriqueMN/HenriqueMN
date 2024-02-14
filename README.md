@@ -17,8 +17,6 @@
     </article>
     <article>
         <h2>Main Techs</h2>
-        <div>
-            <h4>Languages</h4>
             <img 
                 alt="Ícone da linguagem Java / Java language icon" 
                 height="55" width="55" 
@@ -49,8 +47,6 @@
                 height="55" width="55" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
             />
-      </div>
-      <div>
         <h4>Frameworks</h4>
         <img 
             alt="Ícone do framework Spring / Spring framework icon" 
@@ -67,16 +63,12 @@
             height="55" width="55" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
         />
-    </div>
-    <div>
         <h4>Databases</h4>
         <img 
             alt="Ícone do banco de dados MySQL / MySQL database icon" 
             height="55" width="55" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
         />
-    </div>
-    <div>
         <h4>IDEs</h4>
         <img 
             alt="Ícone do IDE VSCode / VSCode IDE icon" 
@@ -98,6 +90,5 @@
             height="55" width="55" 
             src="https://netbeans.apache.org/_/images/apache-netbeans.svg"
         />
-    </div>
   </article>
 </div>
