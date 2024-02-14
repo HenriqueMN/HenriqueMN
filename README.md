@@ -3,7 +3,7 @@
 <div> <!-- Presentation -->
     <h1 align="center">👋 Hello, I'm Henrique</h1>
     <h2 align="center">About</h2>
-    <p>📖 I'm a developer and a linguist interested in solving problems with technology.</p>
+    <p>📖 I'm a developer and a linguist interested in finding creative solutions with technology.</p>
     <p>🌱 I'm currently focused on learning JavaScript.</p>
     <p>💘 My main interests are full stack web development, AI and data analysis.</p>
 </div>
