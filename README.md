@@ -99,5 +99,5 @@
 </div>
 
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=150&color=0:f2fdff,100:97eeff&reversal=false&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:d0f6fc,%2050:75d8eb,%20100:4abbd1&text=Thanks%20for%20stopping%20by!&reversal=false&section=footer&fontAlign=42&fontAlignY=70&rotate=12&fontSize=40&stroke=FFFFFF"/>
 </div>
