@@ -99,7 +99,5 @@
 </div>
 
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:4abbd1,%2050:75d8eb,%20100:d0f6fc&text=Thanks%20for%20stopping%20by!&reversal=false&section=footer&fontAlign=42&fontAlignY=70&rotate=12&fontSize=40&stroke=FFFFFF"/>
-
-    <!--color=0:d0f6fc,%2050:75d8eb,%20100:4abbd1-->
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:4abbd1,%2050:75d8eb,%20100:d0f6fc&text=Thanks%20for%20stopping%20by!&reversal=false&section=footer&fontAlign=42&fontAlignY=75&rotate=12&fontSize=40&stroke=FFFFFF"/>
 </div>
