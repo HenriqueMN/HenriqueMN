@@ -8,6 +8,7 @@
     <p>📖 I'm a developer and linguist passionate about leveraging technology to discover innovative solutions.</p>
     <p>🌱 I'm currently focused on enhancing my JavaScript skills.</p>
     <p>💘 My main interests include full-stack web development, AI, and data analysis.</p>
+    <p>💬Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/henrique-mn</p>
 </div>
 
 <div align="center"> <!-- Most used languages -->
@@ -96,11 +97,6 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=blue_navy"
       />
   </article>
-</div>
-
-<div> <!-- Contact -->
-    <h2 align="center">Contact</h2>
-    <p>Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/henrique-mn</p>
 </div>
 
 <div>
