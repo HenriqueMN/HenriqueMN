@@ -96,3 +96,7 @@
         />
   </article>
 </div>
+
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=150&color=0:f2fdff,100:97eeff&reversal=false&section=footer"/>
+</div>
