@@ -1,3 +1,7 @@
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=150&color=0:f2fdff,100:97eeff&reversal=false&section=header"/>
+</div>
+
 <div> <!-- Presentation -->
     <h1 align="center">👋 Hello, I'm Henrique</h1>
     <h2 align="center">About</h2>
