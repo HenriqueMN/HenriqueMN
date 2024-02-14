@@ -1,5 +1,3 @@
-# Profile in development
-
 <div> <!-- Presentation -->
     <h1 align="center">👋 Hello, I'm Henrique</h1>
     <h2 align="center">About</h2>
