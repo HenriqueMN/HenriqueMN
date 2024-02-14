@@ -1,21 +1,21 @@
 # Perfil em desenvolvimento
 
-<section><!-- Presentation -->
-<h1></h1>
-  
-</section>
+<div><!-- Presentation -->
+    <h1 align="center">👋 Olá, me chamo Henrique / Hello, I'm Henrique</h1>
+    <h2 align="center">Sobre</h2>
+</div>
 
 <div align="center"> <!-- Most used languages -->
     <article>
-        <h2>Stats:</h2>
+        <h2>Stats</h2>
         <img 
             height="200em" 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
     </article>
     <article>
-        <h2>Principais Tecnologias/Main Techs:</h2>
+        <h2>Principais Tecnologias/Main Techs</h2>
         <div>
-            <h4>Linguagens/Languages:</h4>
+            <h4>Linguagens/Languages</h4>
             <img 
                 alt="Ícone da linguagem Java / Java language icon" 
                 height="55" width="55" 
@@ -48,7 +48,7 @@
             />
       </div>
       <div>
-        <h4>Frameworks:</h4>
+        <h4>Frameworks</h4>
         <img 
             alt="Ícone do framework Spring / Spring framework icon" 
             height="55" width="55" 
@@ -66,7 +66,7 @@
         />
     </div>
     <div>
-        <h4>Bancos de Dados/Databases:</h4>
+        <h4>Bancos de Dados/Databases</h4>
         <img 
             alt="Ícone do banco de dados MySQL / MySQL database icon" 
             height="55" width="55" 
