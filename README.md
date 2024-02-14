@@ -12,12 +12,6 @@
 
 <div align="center"> <!-- Most used languages -->
     <article>
-        <h2>Stats</h2>
-        <img 
-            height="250" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"/>
-    </article>
-    <article>
         <h2>Main Techs</h2>
         <img 
             alt="Ícone da linguagem Java / Java language icon" 
@@ -94,6 +88,13 @@
             height="50" width="50" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
         />
+  </article>
+  <article>
+      <h2>Stats</h2>
+      <img 
+          height="250" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMN&layout=compact&langs_count=7&theme=catppuccin_latte"
+      />
   </article>
 </div>
 
