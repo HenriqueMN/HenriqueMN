@@ -1,6 +1,6 @@
-# Perfil em desenvolvimento
+# Perfil em desenvolvimento / Profile in development
 
-<div><!-- Presentation -->
+<div> <!-- Presentation -->
     <h1 align="center">👋 Olá, me chamo Henrique / Hello, I'm Henrique</h1>
     <h2 align="center">Sobre</h2>
 </div>
