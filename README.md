@@ -1,5 +1,5 @@
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:d0f6fc,%2050:75d8eb,%20100:4abbd1&text=Welcome%20to%20my%20github&reversal=false&section=header&fontAlign=70&fontAlignY=35&rotate=13&fontSize=40&stroke=FFFFFF"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:d0ecfc,%2050:75c1eb,%20100:4aa1d1&text=Welcome%20to%20my%20github&reversal=false&section=header&fontAlign=70&fontAlignY=35&rotate=13&fontSize=40&stroke=FFFFFF"/>
 </div>
 
 <div> <!-- Presentation -->
@@ -104,5 +104,5 @@
 </div>
 
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:4abbd1,%2050:75d8eb,%20100:d0f6fc&text=Thanks%20for%20stopping%20by!&reversal=false&section=footer&fontAlign=42&fontAlignY=75&rotate=12&fontSize=40&stroke=FFFFFF"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:4aa1d1,%2050:75c1eb,%20100:d0ecfc&text=Thanks%20for%20stopping%20by!&reversal=false&section=footer&fontAlign=42&fontAlignY=75&rotate=12&fontSize=40&stroke=FFFFFF"/>
 </div>
